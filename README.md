@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Santosh Lohar I have completed my 1st Bachelor of Business Studies(BBS) from Kapilvatu Multiple Campus Kapilvastu affiliated to Tribhuvan University (TU) Nepal,
+- Currently I am studying Bachelor of Computer Application (BCA) from Manipal University Jaipur India 
+- 👀 I’m interested Cybersecurity and Data Science and Programming
+- 🌱 I’m currently learning Machine learning and AI
